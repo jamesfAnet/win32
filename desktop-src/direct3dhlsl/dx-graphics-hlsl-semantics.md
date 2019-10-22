@@ -103,7 +103,7 @@ These semantics have meaning when attached to a vertex-shader parameter. These s
 | TESSFACTOR\[n\]   | Tessellation factor                                                                                                                                                     | float  |
 | TEXCOORD\[n\]     | Texture coordinates                                                                                                                                                     | float4 |
 
-`n` is an optional integer between 0 and the number of resources supported. For example, POSITION0, TEXCOOR1, etc.
+`n` is an optional integer between 0 and the number of resources supported. For example, POSITION0, TEXCOORD1, etc.
 
 ### Pixel Shader Semantics
 
